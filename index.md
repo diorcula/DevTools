@@ -25,13 +25,13 @@ Windows Terminal| Terminal with Powershell
 Hyper | CSS Terminal | https://hyper.is/ 
 
 ### Terminal software
-Name | Description | Link 
+|Name | Description | Link |
 --- | --- |--- 
-Scoop       |        package manager         | https://scoop.sh/ 
-Chocolately | package manager for powershell |                                                                             
-Powerline   |    Making a prettier prompt    | https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup 
-Oh-my-posh  |         Theme: aliens          | https://ohmyposh.dev/ 
-Neofetch    |                                |                                                                             
+| Scoop       |        package manager         | https://scoop.sh/ |
+| Chocolately | package manager for powershell |                     |                                                        
+| Powerline   |    Making a prettier prompt    | https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup |
+| Oh-my-posh  |         Theme: aliens          | https://ohmyposh.dev/ |
+| Neofetch    |                                |                       |                                                
 
 
 ## IDE
