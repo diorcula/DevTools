@@ -18,12 +18,6 @@ A list of tools i use for development and general computer use
   - [Themes & Fonts](#themes--fonts)
   - [unsorted + cool](#unsorted--cool)
 
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
 ## Terminal
 
 Name | Description | Link 
@@ -32,6 +26,7 @@ Windows Terminal| Terminal with Powershell
 Hyper | CSS Terminal | https://hyper.is/ 
 
 ### Terminal software
+
 |Name | Description | Link |
 --- | --- |--- 
 | Scoop       |        package manager         | https://scoop.sh/ |
@@ -42,12 +37,14 @@ Hyper | CSS Terminal | https://hyper.is/
 
 
 ## IDE
+
 Name | Description | Link 
 --- | --- |--- 
 Jetbrains Intellij | IDE for Java       
 Microsoft Visual Studio | IDE for everything else 
 
 ## SQL
+
 Name | Description | Link 
 --- | --- |--- 
 | Microsoft SQL Server 19 | Database manager 
@@ -59,6 +56,7 @@ Name | Description | Link
 - Postman https://www.postman.com/
 
 ## Frontend Design
+
 Name | Description | Link 
 --- | --- |--- 
 Figma                  |          Front end design          |
@@ -91,6 +89,7 @@ JSON Generator         |     Free to use JSON generator     |         https://ne
 - Tabliss.io https://tabliss.io/
 
 ## Themes & Fonts
+
 Name | Description | Link 
 --- | --- |--- 
 Dracula      |     A dark theme for almost everything      |  https://draculatheme.com/ 
