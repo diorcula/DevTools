@@ -1,6 +1,3 @@
-# DevTools
-A list of tools i use for development and general computer use
-
 # Table of Contents
 - [DevTools](#devtools)
 - [Table of Contents](#table-of-contents)
