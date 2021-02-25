@@ -43,11 +43,17 @@ Name | Description | Link
 Jetbrains Intellij | IDE for Java       
 Microsoft Visual Studio | IDE for everything else 
 
+## Project management
+
+Name | Description | Link 
+--- | --- |--- 
+Clickup | Clickup  projectmanagement tool | 
+
 ## SQL
 
 Name | Description | Link 
 --- | --- |--- 
-| Microsoft SQL Server 19 | Database manager 
+Microsoft SQL Server 19 | Database manager |
 
 ## Server & localhost
 - Laragon https://laragon.org/
@@ -72,7 +78,7 @@ JSON Generator         |     Free to use JSON generator     |         https://ne
 - Everything https://www.voidtools.com/
 - Everything Toolbar Integration for Windows taskbar https://github.com/stnkl/EverythingToolbar
 
-## Health & Time Management
+## Time Management
 - Stretchly https://hovancik.net/stretchly/
 - Virtual Cottage https://dui.itch.io/virtual-cottage
 
