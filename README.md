@@ -90,8 +90,7 @@ JSON Generator         |     Free to use JSON generator     |         https://ne
 ## Browser
 - Firefox https://www.mozilla.org/en-US/firefox/new/
 - DuckDuckGo https://www.duckduckgo.com/
-- Lastpass : https://www.lastpass.com/nl/
-- uBlock Origin
+- Bitwarden https://bitwarden.com/
 - Tabliss.io https://tabliss.io/
 
 ## Themes & Fonts
@@ -106,6 +105,7 @@ Google Fonts |           Free fonts from Google            |  https://fonts.goog
 
 ## unsorted + cool
 - Gitmoji https://gitmoji.dev/
+- Hashnode https://hashnode.com/
 - BPMN.io https://bpmn.io/
 - https://free-for.dev/#/
 - https://codeprints.dev/
