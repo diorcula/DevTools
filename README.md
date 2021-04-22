@@ -4,6 +4,7 @@ list of tools i use 👨‍💻 to make life a bit easier
 # Table of Contents
 - [DevTools](#devtools)
 - [Table of Contents](#table-of-contents)
+  - [Hardware](#hardware)
   - [Terminal](#terminal)
     - [Terminal software](#terminal-software)
   - [IDE](#ide)
@@ -17,6 +18,16 @@ list of tools i use 👨‍💻 to make life a bit easier
   - [Browser](#browser)
   - [Themes & Fonts](#themes--fonts)
   - [unsorted + cool](#unsorted--cool)
+
+## Hardware
+Name | Description | Link 
+--- | --- |--- 
+Razer Blackwidow TE | Orange Switch keyboard | 
+Ducky Mecha Mini | Cherry MX Brown keyboard | 
+Hobonichi Techo | paper dayplanner | 
+Lamy Safari + Vista | Fountainpen |
+Sandisk SSD | portable SSD |
+Canon EOS M | Canon digital camera, 18-55 mm | 
 
 ## Terminal
 
