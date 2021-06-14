@@ -35,6 +35,7 @@ Name | Description | Link
 --- | --- |--- 
 Windows Terminal| Terminal with Powershell 
 Hyper | CSS Terminal | https://hyper.is/ 
+Gnome | Default Pop!_OS terminal
 
 ### Terminal software
 
@@ -65,6 +66,7 @@ Clickup | Clickup  projectmanagement tool |
 Name | Description | Link 
 --- | --- |--- 
 Microsoft SQL Server 19 | Database manager |
+DBeaver | Linux database management software |
 
 ## Server & localhost
 - Laragon https://laragon.org/
