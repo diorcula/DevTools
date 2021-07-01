@@ -86,6 +86,7 @@ favicon.io             |       Free favicon generator       |                   
 Brandhub Logo          |        Free logo generator         |               https://brandhub.io/logos/ 
 CSS Gradient Generator |    Free CSS Gradient generator     |                  https://cssgradient.io/ 
 JSON Generator         |     Free to use JSON generator     |         https://next.json-generator.com/ 
+Typeform               | Cool way to make custom forms      | Typeform.com
 
 ## Searching
 - Everything https://www.voidtools.com/
