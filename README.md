@@ -79,6 +79,7 @@ DBeaver | Linux database management software |
 Name | Description | Link 
 --- | --- |--- 
 Figma                  |          Front end design          |
+Whimsical              |     flow chart maker               | https://whimsical.com/
 Lorem Ipsum Generator  |     generator for lorem ipsum      | https://loremipsum.io/generator/?n=5&t=p 
 Terms of Use Generator |     generator for Terms of Use     |     https://www.termsofusegenerator.net/ 
 unDraw                 | Free to use Terms of Use generator |          https://undraw.co/illustrations 
