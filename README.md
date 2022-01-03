@@ -96,6 +96,7 @@ Typeform               | Cool way to make custom forms      | Typeform.com
 ## Time Management
 - Stretchly https://hovancik.net/stretchly/
 - Virtual Cottage https://dui.itch.io/virtual-cottage
+- Wakatime: https://wakatime.com/
 
 ## Git
 - Git
